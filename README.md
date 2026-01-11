@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Yog Golakiya
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yog+Golakiya" alt="Typing SVG" />
 
 ### Full Stack Developer | Web & App Development | AI/ML Enthusiast
 
