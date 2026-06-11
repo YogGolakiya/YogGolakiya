@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yog+Golakiya" alt="Typing SVG" />
 
-### Full Stack Developer | Web & App Development | AI/ML Enthusiast
+### Full Stack Developer | Web & App Development | Digital Transformation
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;React+%7C+Flutter+%7C+Node.js;Competitive+Programmer;Future+AI%2FML+Graduate+Student" alt="Typing SVG" />
 
-**Future AI/ML Graduate Student**
+**Master of Digital Transformation**
 
 </div>
 
